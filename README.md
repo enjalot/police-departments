@@ -6,4 +6,4 @@ The methodology behind this data is documented in this [Observable Notebook](htt
 
 ## Data downloads
 
-You can download the data directly as [CSV]() or [JSON]()
+You can download the data directly as [CSV](https://enjalot.github.io/police-departments/data/departments.csv) and [JSON](https://enjalot.github.io/police-departments/data/departments.json)
